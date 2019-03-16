@@ -16,8 +16,10 @@ public class HomePageUtilitiesTest extends HomePageUtilites {
     public void sendKeysToSearchBarTest() {
         searchBar();
     }
+
     @Test
     public void yourAmazonLinkTest(){
-       yourAmazonLink();
+
+        yourAmazonLink();
     }
 }

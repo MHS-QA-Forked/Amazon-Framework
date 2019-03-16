@@ -16,7 +16,10 @@ public class HomePageUtilites extends CommonAPI {
        searchButton.click();
     }
 
+
+
     public void yourAmazonLink(){
+
         youramazonlink.click();
     }
 }
